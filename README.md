@@ -4,5 +4,3 @@ The content presented here is a complementary material to the paper "Electronic 
 List of contents you will find in this repository:
 - Arduino files for the electronic number line
 - CAD files for the 3D printed enclosure
-- Bill of materials
-- Python code for data Analysis
